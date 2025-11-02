@@ -74,11 +74,11 @@ I'm a passionate Computer Science student at VIT Chennai with expertise in full-
   <a href="https://www.geeksforgeeks.org/user/nirajguptaa/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/nirajgupta1292003">
+  <a href="https://www.hackerrank.com/profile/nirajgupta129200">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/nirajguptaa/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<a href="https://codolio.com/profile/nirajguptaa">
+  <img src="https://img.shields.io/badge/Codolio-4B9CD3?style=for-the-badge&logoColor=white" alt="Codolio"/>
 </a>
 </p>
 
