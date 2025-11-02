@@ -65,22 +65,80 @@ I'm a passionate Computer Science student at VIT Chennai with expertise in full-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajguptaa&theme=radical&hide_border=true" alt="nirajguptaa" />
 </p>
 
-## 🏆 Coding Profiles
+
+
+## 🏆 Coding Profiles & Achievements
 
 <p align="center">
-  <a href="https://leetcode.com/u/nirajguptaa/">
+  <!-- Profile Badges -->
+  <a href="https://leetcode.com/u/nirajguptaa/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/nirajguptaa/">
+  <a href="https://www.geeksforgeeks.org/user/nirajguptaa/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/nirajgupta129200">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <a href="https://codolio.com/profile/nirajguptaa" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-4B9CD3?style=for-the-badge&logoColor=white" alt="Codolio"/>
   </a>
-<a href="https://codolio.com/profile/nirajguptaa">
-  <img src="https://img.shields.io/badge/Codolio-4B9CD3?style=for-the-badge&logoColor=white" alt="Codolio"/>
-</a>
 </p>
+
+---
+
+###  LeetCode Statistics  
+<p align="center">
+  <a href="https://leetcode.com/u/nirajguptaa/">
+    <img src="https://leetcard.jacoblin.cool/nirajguptaa?theme=dark&font=Fira%20Code&ext=contest,heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+#### 🥇 Medals & Achievements
+
+
+<p align="center">
+  
+  <!-- 50-Day Streak Badge 2024 -->
+ <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90" title="50-Day Streak Badge 2024"/>
+
+  <!-- 50-Day Streak Badge 2025 -->
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="90" title="50-Day Streak Badge 2025"/>
+
+  <!-- 100-Day Streak Badge 2025 -->
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="90" title="100-Day Streak Badge 2025"/>
+</p>
+<p align="center">
+   400+ Problems Solved | Top 10% Global | Consistent Daily Coder
+</p>
+ 
+---
+
+###  GeeksforGeeks Statistics  
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/nirajguptaa/">
+    <img src="https://gfgstatscard.vercel.app/nirajguptaa" alt="GFG Stats" />
+  </a>
+</p>
+
+<p align="center">
+  🏅 300+ DSA Problems Solved | Certified in DSA Challenge | Active Contest Participant  
+</p>
+
+---
+
+###  Codolio Overview  
+<p align="center">
+  <a href="https://codolio.com/profile/nirajguptaa">
+    <img src="https://img.shields.io/badge/Codolio-Developer-4B9CD3?style=for-the-badge&logoColor=white" alt="Codolio"/>
+  </a>
+</p>
+
+<p align="center">
+   Showcasing Coding Portfolio | Real-Time Skill Tracking | All-Platform Summary  
+</p>
+
+---
+
+
+
 
 ##  Recent Activity
 
