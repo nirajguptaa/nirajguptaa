@@ -153,7 +153,7 @@ I'm a passionate Computer Science student at VIT Chennai with expertise in full-
 ##  Let's Connect!
 
 <p align="center">
-  <a href="mailto:nirajguptta@gmail.com">
+  <a href="mailto:nirajguptta12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/nirajguptaa">
