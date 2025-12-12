@@ -114,9 +114,10 @@ I'm a passionate Computer Science student at VIT Chennai with expertise in full-
 ###  GeeksforGeeks Statistics  
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/nirajguptaa/">
-    <img src="https://gfgstatscard.vercel.app/nirajguptaa" alt="GFG Stats" />
+    <img src="https://gfg-git-master-zyrouge.vercel.app/api?user=nirajguptaa" alt="GFG Stats"/>
   </a>
 </p>
+
 
 <p align="center">
   🏅 300+ DSA Problems Solved | Certified in DSA Challenge | Active Contest Participant  
