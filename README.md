@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Niraj Kumar Gupta
+#  Niraj Kumar Gupta
 
 ###  Full Stack Developer & AI Enthusiast
 
