@@ -1,181 +1,121 @@
-#  Niraj Kumar Gupta
-
-###  Full Stack Developer & AI Enthusiast
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-</p>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nirajguptaa&color=667EEA&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/nirajguptaa?color=667EEA&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/nirajguptaa?color=667EEA&style=social)
+# Niraj Kumar Gupta
+
+**Software Engineer · AI/ML Developer · Final Year CSE @ VIT Chennai**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nirajguptaa.netlify.app-58a6ff?style=flat-square&logo=google-chrome&logoColor=white)](https://nirajguptaa.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nirajguptaa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirajguptaa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_10%25_·_595+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nirajguptaa/)
+[![Email](https://img.shields.io/badge/Email-nirajguptta12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nirajguptta12@gmail.com)
 
 </div>
 
-##  About Me
+---
 
-I'm a passionate Computer Science student at VIT Chennai with expertise in full-stack development and AI integration. I love building scalable applications that solve real-world problems and create meaningful impact.
+## About
 
--  Currently working on **AI-powered applications**
--  Learning **Advanced System Design & Machine Learning**
--  Looking to collaborate on **Open Source Projects**
--  Ask me about **React, Node.js, Python, AI/ML**
--  How to reach me: **nirajguptta12@gmail.com**
--  Fun fact: **I've solved 800+ coding problems!**
+I build production-grade systems — not just demos. My work sits at the intersection of **AI/ML engineering** and **software fundamentals**: multi-agent LLM pipelines, real-time distributed applications, and backends designed for correctness under load.
 
-##  Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-##  GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/nirajguptaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajguptaa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajguptaa&layout=compact&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajguptaa&theme=radical&hide_border=true" alt="nirajguptaa" />
-</p>
-
-
-
-## 🏆 Coding Profiles & Achievements
-
-<p align="center">
-  <!-- Profile Badges -->
-  <a href="https://leetcode.com/u/nirajguptaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/nirajguptaa/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://codolio.com/profile/nirajguptaa" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-4B9CD3?style=for-the-badge&logoColor=white" alt="Codolio"/>
-  </a>
-</p>
+- **CGPA:** 8.67 / 10.0 &nbsp;·&nbsp; **LeetCode:** Top 10% globally, 595+ solved &nbsp;·&nbsp; **Hackathon:** Top 4.4% out of 12,885 teams
+- Currently focused on agentic AI systems, distributed systems, and system design
+- Open to **SWE internships** and **AI/ML roles**
 
 ---
 
-###  LeetCode Statistics  
-<p align="center">
-  <a href="https://leetcode.com/u/nirajguptaa/">
-    <img src="https://leetcard.jacoblin.cool/nirajguptaa?theme=dark&font=Fira%20Code&ext=contest,heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
+## Tech Stack
 
-#### 🥇 Medals & Achievements
+**Languages**
+&nbsp; C++ &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; SQL &nbsp;
 
+**AI / ML**
+&nbsp; LangChain &nbsp;·&nbsp; CrewAI &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; IBM Watsonx
 
-<p align="center">
-  
-  <!-- 50-Day Streak Badge 2024 -->
- <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90" title="50-Day Streak Badge 2024"/>
+**Backend & Web**
+&nbsp; Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; React.js &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; WebSockets
 
-  <!-- 50-Day Streak Badge 2025 -->
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="90" title="50-Day Streak Badge 2025"/>
+**Databases**
+&nbsp; PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Firebase
 
-  <!-- 100-Day Streak Badge 2025 -->
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="90" title="100-Day Streak Badge 2025"/>
-</p>
-<p align="center">
-   400+ Problems Solved | Top 10% Global | Consistent Daily Coder
-</p>
- 
----
-
-###  GeeksforGeeks Statistics  
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/nirajguptaa/">
-    <img src="https://gfg-git-master-zyrouge.vercel.app/api?user=nirajguptaa" alt="GFG Stats"/>
-  </a>
-</p>
-
-
-<p align="center">
-  🏅 300+ DSA Problems Solved | Certified in DSA Challenge | Active Contest Participant  
-</p>
+**DevOps & Tools**
+&nbsp; Docker &nbsp;·&nbsp; Docker Compose &nbsp;·&nbsp; Git &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Postman
 
 ---
 
-###  Codolio Overview  
-<p align="center">
-  <a href="https://codolio.com/profile/nirajguptaa">
-    <img src="https://img.shields.io/badge/Codolio-Developer-4B9CD3?style=for-the-badge&logoColor=white" alt="Codolio"/>
-  </a>
-</p>
+## Selected Projects
 
-<p align="center">
-   Showcasing Coding Portfolio | Real-Time Skill Tracking | All-Platform Summary  
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [**CodeCollab**](https://github.com/nirajguptaa/collab-editor) | Real-time collaborative code editor with a custom Operational Transformation engine, Redis pub/sub (<30ms latency), and sandboxed Docker code execution | React · Node.js · Socket.io · Redis · PostgreSQL · Docker |
+| [**Multi-Agent Threat Intelligence**](https://github.com/nirajguptaa/AI-Powered-Cybersecurity-Threat-Intelligence-System) | 4-agent LLM pipeline (researcher → analyst → writer → reviewer) that cuts manual threat analysis by ~70% | Python · LangChain · CrewAI · Groq |
+| [**HackerRank Support Triage Agent**](https://github.com/nirajguptaa/hackerrank-support-triage-agent) | Corpus-grounded support triage agent — zero hallucination, hard escalation logic for fraud/billing cases. Top 4.4% finish (562/12,885) | Python · Scikit-learn · TF-IDF · NLP |
+| [**CNN Lung Cancer Classifier**](https://github.com/nirajguptaa) | Deep learning inference pipeline on CT scan data, evaluated with F1/precision/recall. Flask REST API + automated clinical report generation | Python · TensorFlow · Flask · MySQL |
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nirajguptaa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajguptaa&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajguptaa&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=a78bfa" />
+
+</div>
+
+---
+
+## LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/nirajguptaa?theme=dark&font=JetBrains+Mono&ext=contest,heatmap&border=0" alt="LeetCode Stats"/>
+
+</div>
+
+<div align="center">
+
+**595+ solved &nbsp;·&nbsp; Top 10% globally &nbsp;·&nbsp; Contest rating 1,773 &nbsp;·&nbsp; 278 active days**
+
+</div>
+
+### Badges
+
+<div align="center">
+
+<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="80" height="80" title="365-Day Badge"/>
+<img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="80" height="80" title="100-Day Badge"/>
+<img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="80" height="80" title="200-Day Badge"/>
+<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="80" height="80" title="50-Day Streak 2025"/>
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" width="80" height="80" title="Top SQL 50"/>
+<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="80" height="80" title="100-Day Streak 2025"/>
+<img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="80" height="80" title="50-Day Badge"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="80" height="80" title="50-Day Streak 2024"/>
+
+</div>
 
 
 
-##  Recent Activity
+---
 
-<!--START_SECTION:activity-->
-1.  Completed AI Cybersecurity Platform
-2.  Deployed Full-Stack E-commerce Application
-3.  Solved 50+ LeetCode Problems This Month
-4.  Learning Advanced System Design
-5.  Contributing to Open Source Projects
-<!--END_SECTION:activity-->
+## Achievements
 
-##  Let's Connect!
-
-<p align="center">
-  <a href="mailto:nirajguptta12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/nirajguptaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nirajguptaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://nirajgupta.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+- **HackerRank Orchestrate 2026** — Ranked 562 / 12,885 (Top 4.4%, 48 countries) · Certificate of Excellence
+- **LeetCode** — Top 10% globally · Contest rating 1,773 · 365-Day Badge
+- **GeeksforGeeks** — 160-day streak · 300+ problems
+- **Oracle Database Foundations** — 96% score
+- **Generative AI with IBM Watsonx** — IBM certified
+- **Frontend Developer (React)** — HackerRank certified
 
 ---
 
 <div align="center">
 
-### ❤️ Thanks for visiting my profile!
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajguptaa&countColor=%23667eea&style=flat-square)
-
-**Keep coding, keep growing!** 
+[![Profile Views](https://komarev.com/ghpvc/?username=nirajguptaa&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/nirajguptaa)
 
 </div>
