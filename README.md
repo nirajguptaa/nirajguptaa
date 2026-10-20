@@ -17,7 +17,7 @@
 
 I build production-grade systems — not just demos. My work sits at the intersection of **AI/ML engineering** and **software fundamentals**: multi-agent LLM pipelines, real-time distributed applications, and backends designed for correctness under load.
 
-- **CGPA:** 8.67 / 10.0 &nbsp;·&nbsp; **LeetCode:** Top 10% globally, 595+ solved &nbsp;·&nbsp; **Hackathon:** Top 4.4% out of 12,885 teams
+- **CGPA:** 8.67 / 10.0 &nbsp;·&nbsp; **LeetCode:** Top 8% globally, 700+ solved &nbsp;·&nbsp; **Hackathon:** Top 4.4% out of 12,885 teams
 - Currently focused on agentic AI systems, distributed systems, and system design
 - Open to **SWE internships** and **AI/ML roles**
 
